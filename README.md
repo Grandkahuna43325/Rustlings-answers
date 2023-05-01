@@ -1,2 +1,2 @@
-My answers for Rustlings (and a bit of ChatGPT :))
+My answers for Rustlings (with a bit of help from ChatGPT :))
 
